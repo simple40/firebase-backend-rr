@@ -1,0 +1,17 @@
+{
+  "name": "news-images/05fd1486-edd9-4959-9eee-1e77777ec76b_rohit.jpg",
+  "bucket": "news-images",
+  "metageneration": 2,
+  "generation": 1692355978558,
+  "contentType": "image/jpeg",
+  "storageClass": "STANDARD",
+  "downloadTokens": [
+    "12c34380-89ef-463b-88fe-74ce2cc3848c"
+  ],
+  "etag": "nmqFFx8XDerCPWKNL2z6ARjkhO8",
+  "timeCreated": "2023-08-18T10:52:58.558Z",
+  "updated": "2023-08-18T10:53:12.313Z",
+  "size": 41688,
+  "md5Hash": "ABvKt/TrB9nggVE6Kg5dFg==",
+  "crc32c": "2394549582"
+}
